@@ -1,0 +1,7 @@
+#parallelogram {
+    width: 80%;
+    float: right;
+    height: 100vh;
+    transform: skew(-20deg);
+    background: red;
+  }
