@@ -1,29 +1,60 @@
-body{
-    margin: 0;
-    padding: 0;
-    font-family: poppins;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
+}
+ul {
+  float: right;
+  margin-left: 70%;
 }
 
-ul li{
-    list-style: none;
+ul li {
+  list-style: none;
+  margin: 0 0 0 20px;
 }
 
-.logo{
+.logo {
+  font-weight: bolder;
+  font-size: 40px;
+  margin: 0 0 0 20px;
+}
+
+.navbar {
+  border-radius: 1px solid #000 !important;
+}
+
+.bunner {
+  background: #000;
+  height: 100vh;
+}
+
+.bunner-img {
+  background-image: url("./assests/image.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: right 35% bottom 45%;
+  height: 100%;
+  width: 100%;
+  justify-content: right;
+  align-items: center;
+}
+.bunner h1 {
     font-weight: bolder;
-    font-size: 40px;
-    margin: 0 0 0 20px;
+    color: #fff;
+    font-size: 70px;
 }
 
-/* .navbar{
-    background-color: #000 !important;
-    color: #fff !important;
+.bunner p{
+    font-weight: bolder;
+    color: #fff;
+    font-size: 40px;
+}
 
-} */
-
-nav ul li a{
-    color: white;
+.bunner-img{
+    padding: 50px auto;
 }
