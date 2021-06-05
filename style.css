@@ -1,7 +1,29 @@
-#parallelogram {
-    width: 80%;
-    float: right;
-    height: 100vh;
-    transform: skew(-20deg);
-    background: red;
-  }
+body{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
+
+.logo{
+    font-weight: bolder;
+    font-size: 40px;
+    margin: 0 0 0 20px;
+}
+
+/* .navbar{
+    background-color: #000 !important;
+    color: #fff !important;
+
+} */
+
+nav ul li a{
+    color: white;
+}
