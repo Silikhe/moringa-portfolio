@@ -234,7 +234,11 @@ section {
 
 .right-col p {
   color: #777;
-  margin: 20px 0 70px;
+  margin: 20px 0 50px;
+}
+
+.right-col span{
+  color: #007b5e;
 }
 
 .social-media {
