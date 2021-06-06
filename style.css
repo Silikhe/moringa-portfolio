@@ -225,6 +225,7 @@ section {
 }
 
 .left-col img {
+  height: 100%;
   width: 80%;
   cursor: pointer;
   filter: grayscale(0);
@@ -341,9 +342,14 @@ input[type=submit] {
   }
 }
 
+footer{
+  height: 50px;
+  background:#000;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+}
 
-
-
-
-
-
+footer:hover{
+  color: #007b5e;
+}
