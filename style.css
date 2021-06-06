@@ -58,3 +58,10 @@ ul li {
 .bunner-img{
     padding: 50px auto;
 }
+
+/* Hobby */
+
+.hobby{
+  background: #F6F6F6;
+  height: 30vh;
+}
