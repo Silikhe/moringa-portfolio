@@ -238,7 +238,7 @@ section {
 
 .right-col p {
   color: #777;
-  margin: 20px 0 50px;
+  margin: 20px 0 30px;
 }
 
 .right-col span{
@@ -302,7 +302,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #007b5e;
   color: white;
   padding: 12px 20px;
   border: none;
