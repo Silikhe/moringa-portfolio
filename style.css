@@ -17,6 +17,10 @@ ul li {
   margin: 0 0 0 20px;
 }
 
+ul li a:hover{
+  color: #007b5e !important;
+}
+
 .logo {
   font-weight: bolder;
   font-size: 40px;
