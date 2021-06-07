@@ -217,10 +217,12 @@ section {
 }
 
 .left-col {
+  height: 400px;
   flex-basis: 40%;
 }
 
 .right-col {
+  /* height: 80%; */
   flex-basis: 55%;
 }
 
@@ -230,6 +232,8 @@ section {
   cursor: pointer;
   filter: grayscale(0);
   transition: filter 1s;
+  background-position: top;
+  object-fit: cover;
 }
 
 .left-col img:hover {
