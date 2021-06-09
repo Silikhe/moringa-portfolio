@@ -8,7 +8,7 @@
 
 This is a website build by me to display projects I have build incase of a new release will always update.
 
-![screenshot-127 0 0 1_5500-2021 06 07-03_12_41](https://user-images.githubusercontent.com/65366942/120944653-51d8e200-c73e-11eb-8580-c0bb7f62a347.png)
+![screenshot-127 0 0 1_5501-2021 06 09-14_56_42](https://user-images.githubusercontent.com/65366942/121357909-ddb75d80-c93a-11eb-916e-248657b9160e.png)
 
 ## Setup/Installation Requirements
 
